@@ -1,0 +1,23 @@
+{
+    "language": "en_US",
+    "ignoreWordsList": [
+        "blog",
+        "Blog",
+        "java",
+        "enums",
+        "JavaFX",
+        "internet",
+        "wikipedia",
+        "linux",
+        "google",
+        "StackOverflow"
+    ],
+    "documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ],
+    "ignoreRegExp": [],
+    "ignoreFileExtensions": [],
+    "checkInterval": 5000
+}
