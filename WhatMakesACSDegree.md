@@ -75,7 +75,7 @@ Intro data science with r. Data cleaning, graphs, visualization, regression, mod
 
 My final project https://github.com/joshuastevenson/cs3250-data-project/tree/gh-pages (with left overs from the dcjs demo website) where I analyzed data from speedrun.com.
 
-### CS 4290 (MTH [46]\D\D\D) Cryptography and Data Security
+### CS 4290 (MTH [46]\d\d\d) Cryptography and Data Security
 Applied abstract algebra. Basic ciphers, fields and rings, rsa. Only programing was for extra credit.
 
 ### CEG 4420 Host Computer Security

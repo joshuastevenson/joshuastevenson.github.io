@@ -33,7 +33,9 @@
         "dcjs",
         "weka",
         "Spolsky",
-        "prereqs"
+        "prereqs",
+        "Javascript",
+        "javascript"
     ],
     "documentTypes": [
         "markdown",
