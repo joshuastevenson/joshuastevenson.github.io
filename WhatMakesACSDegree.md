@@ -49,6 +49,9 @@ A math department stats class was also an option. Basic probability, hypotheses 
 ### MTH 2530 Linear Algebra 
 Matrix math. Eigen values are a thing. Was also a prereq for Computer Graphics and Cryptography. 
 
+### CS 3180 Comparative Languages 
+Introduction to functional programing. Projects done in both Racket (Scheme (lisp)) and python. Programing language history and theory. Overview of different paradigms and motivation behind notable languages. Finite state machines. Parsing language grammars. BNF. Implement a basic interpreter. 
+
 ### CEG 4110 Software Engineering
 I had a poor professor but the next semester I sat in on a few of the lectures of another professor. 
 
@@ -76,7 +79,7 @@ Intro data science with r. Data cleaning, graphs, visualization, regression, mod
 My final project https://github.com/joshuastevenson/cs3250-data-project/tree/gh-pages (with left overs from the dcjs demo website) where I analyzed data from speedrun.com.
 
 ### CS 4290 (MTH [46]\d\d\d) Cryptography and Data Security
-Applied abstract algebra. Basic ciphers, fields and rings, rsa. Only programing was for extra credit.
+Applied abstract algebra. Basic ciphers, fields and rings, rsa. Only programing was for extra credit. I fully expect to never use anything I learned from the class. I know not to roll my own crypto. 
 
 ### CEG 4420 Host Computer Security
 Understanding access control, viruses, rootkits, ...
@@ -155,6 +158,16 @@ I got 3 required credits from one of them.
 Class was not prepared for the exam format. I did not get credit. Deutsch macht Spass. Frag mich nicht etwa ubersetzen bitte. 
 
 
+## Stuff I never took
 
+### CS/CEG
+Digital Circuit design. Doesn't really interest me. Required for CEG. 
 
+### Math
+Calc 3, Differential Equations. Part of me is sad. Part of me is very, very glad. 
+
+Credits required to get a math BS: 33
+
+### Other
+Would have been nice to do music and German things but eh.
 
