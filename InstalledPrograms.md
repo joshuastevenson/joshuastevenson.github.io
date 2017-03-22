@@ -67,7 +67,6 @@ Not 100% garbage
 
 ---
 
-
 ### firefox
 My preferred browser. I like the ui. I prefer a separate search bar.
 
