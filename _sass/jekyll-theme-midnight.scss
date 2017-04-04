@@ -184,7 +184,7 @@ dt {
     background: blue;
     margin: 6px auto;
 
-    li {
+    span {
       font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-weight: normal;
       list-style: none;
@@ -218,19 +218,16 @@ dt {
       }
 
       &.fork {
-        float: left;
+        float: right;
         margin-left: 0px;
       }
 
-      &.downloads {
-        float: right;
-        margin-left: 6px;
-      }
+      
 
       &.title {
-        float: right;
+        float: left;
         margin-right: 10px;
-        font-size: 11px;
+        font-size: 20px;
       }
     }
   }
