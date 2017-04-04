@@ -1,3 +1,7 @@
+---
+title: My Installed Programs
+---
+
 # Programs I use
 Kinda organized. May have links to obscure things. Or all things? Googling it is probably always best. Links change.
 

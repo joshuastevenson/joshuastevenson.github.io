@@ -1,3 +1,7 @@
+---
+title: My Complaints About Software 
+---
+
 # Developers All Suck
 An on going list of things I hate most about software.
 

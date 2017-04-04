@@ -1,3 +1,7 @@
+---
+title: What Makes a CS Degree?
+---
+
 # What Makes a Computer Science degree?
 I received a Bachelors of Science in Computer Science from Wright State University.  Here I give some detail about each course I took. Note, I could count the number of lectures I've missed on my hands.
 
