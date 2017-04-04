@@ -1,5 +1,6 @@
 ---
 title: What Makes a CS Degree?
+lastEdited: Wed Mar 15 01:14:49 2017
 ---
 
 # What Makes a Computer Science degree?
