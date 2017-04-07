@@ -25,6 +25,10 @@
     {
       title: "Software Complaints",
       url: "SoftwareComplaints"
+    },
+    {
+      tile: "Miscellaneous Things",
+      url: "misc"
     }
 
   ]
