@@ -40,7 +40,7 @@ def main():
         f.write(out)
     # print out
 
-    with open(filename, "w") as post:
+    with open(filename + ".md", "w") as post:
         date = datetime.date.today().strftime("%Y-%m-%d")
         data = "".join(["---\n","title: ", title, "\nlastEdited: ", date, 
             "\n---\n\n# ", title])
