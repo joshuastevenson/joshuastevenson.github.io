@@ -42,7 +42,8 @@ def main():
 
     with open(filename, "w") as post:
         date = datetime.date.today().strftime("%Y-%m-%d")
-        data = "".join(["---\n","title: ",title,"\nlastEdited: ",date ,"\n---\n# ", title])
+        data = "".join(["---\n","title: ", title, "\nlastEdited: ", date, 
+            "\n---\n\n# ", title])
         
         post.write(data)
 
