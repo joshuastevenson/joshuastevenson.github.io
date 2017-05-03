@@ -3,6 +3,7 @@ title: Web Apps Are No Fun
 lastEdited: Mar 7 21:54:49 2017
 ---
 
+in progress
 
 # Web Development is Complex
 The statement is not "web applications are complex". The process of making something for the web is complex. Plenty of people far more experienced than I have complained about learning to build a web app and being told 50 things to learn. I can still add my experience though. 

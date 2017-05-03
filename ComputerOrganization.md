@@ -1,6 +1,6 @@
 ---
 title: My Computer's Organization
-lastEdited: Mar 22 12:51:45 2017
+lastEdited: 2017-04-25
 ---
 
 My computer is set up just the way I like it. (Actually I have complaints. Everything it terrible.) Obviously this way is superior and everyone should copy me. Then I could use any computer. (Wait, I don't want to deal with everyone's sticky keyboard. Yes my keyboard is sticky too, but its sticky just right.)
@@ -8,7 +8,7 @@ My computer is set up just the way I like it. (Actually I have complaints. Every
 See also Installed Programs. 
 
 ## Windows
-Use Windows 10. I can't even use Windows 7. 7's task manager is too bad.
+Use Windows 10. I can't even use Windows 7. 7's task manager is too bad. Window's Defender is also pretty much all that is needed in 10. 
 
 ### Taskbar
 On the left. Vertical pixels are too precious to have the taskbar on the top or the bottom. 
@@ -38,12 +38,25 @@ My wall paper is a picture of a wall. "KILROY WAS HERE"
 ### prg
 Where I dump every program that is not installed to program files. Bare exe files need to be put in dirs.
 
+#### zzzzPATHzzzz
+
+* links
+* path
+* *generate.py*
+
+*Desktop/prg/zzzzPATHzzzz/path/* is on my path. I drop Windows shortcuts into the links folder and then run *generate.py* to create bat and sh files of the same name. bat for cmd and extensionless sh for git bash.
+
+This does 2 main things. It allows me to get new programs on my path without restarting my shell. It prevents my path from being polluted by noisy bin dirs.
+
+<script src="https://gist.github.com/joshuastevenson/e831156dd25ca61a8cd43dcfe3ca5ff9.js"></script>
+
 ### pi
 Your "My Documents" and your home directory are not yours. Every program ever assumes you want stuff there and will probably drop configuration data there.
 
 Permanent structure:
 * archived stuff
 * cs
+  * [langs]
 * other
   * Other media
     * audio
@@ -90,12 +103,13 @@ A few of these things require shortcuts in `C:\Users\USER_sdfsdfs\AppData\Roamin
 Sidebar:
 
 Everything is collapsed except for "Quick access". Quick access contains:
-* Desktop
-* Downloads
-* Pictures 
 * C:
+* [home]
+* Downloads
 * pi
 * prg
+
+Turn off showing of recent and frequently used files.
 
 There are way too many choices if you leave all the views expanded. Onedrive doesn't exist in my life anyway. 
 
@@ -108,7 +122,7 @@ Currently Ubuntu Gnome 16.04 LTS. Gnome is my preferred environment but I'm gett
 ### bash
 
 * `PS1` MUST have color
-* Root's PS1 is red
+* Root's PS1 is red (`31`)
 * `alias ls=ls -A --color`
 
 
