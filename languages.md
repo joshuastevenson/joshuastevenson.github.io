@@ -49,6 +49,10 @@ lastEdited: 2017-04-11
 * TI Basic
 * Axe
 
+#### Eh no thank you
+
+* [Matlab/Octave](Matlab)
+
 ### Libraries
 
 * Android
@@ -97,9 +101,7 @@ lastEdited: 2017-04-11
 * Forth
 * Postscript 
 
-#### Eh no thank you
 
-* Matlab/Octave 
 
 
 #### Esoteric (Super Super cool)

@@ -12,14 +12,16 @@ Courses I took for the computer science department.
 ### CS 1180 Computer Science I
 I did not take this course. I had credit from the AP Computer Science exam I took in high school. I do not know exactly what is taught in it but I can guess. 
 
-The course is an introductory programming course using java. Control structure {if, switch, while, for}, types, type literals (I helped someone with this once),classes, enums (I heard they are not fully explained), and ? (though I don't know if ternary `?` is covered). Swing apparently was introduced when I started but they switched to JavaFX. 
+The course is an introductory programming course using java. Control structure {if, switch, while, for}, types, type literals (I helped someone with this once), classes, enums (I heard they are not fully explained), and ? (though I don't know if ternary `?` is covered). Swing apparently was introduced when I started but they switched to JavaFX. 
 
 I am really glad I did not need to take this course. I am fairly sure I would have learned nothing given what I had taught myself from the internet. In fact...
 
 ### CS 1181 Computer Science II
-The course after 1180. I learned nothing. Some of the content was still overlap from AP CS (Recursion) and other content (understanding how linked and array lists work, using queues and stacks) I had already studied myself. I'm not sure if inheritance was first introduced here or before. A few of the labs/projects required using existing code and project design. One of them was poorly designed enough that I had to annotate my code `@Depricated` that interfaced with code that couldn't be change. It was only even like 30 loc that were provided but it was just the wrong way of doing it. My instructor retired so I do not know if that assignment still exists. My memories of the class aren't helped by the instructor's quizzes being "What was the implementation of ___ in chapter X.x?" followed by a list of valid implementations, including those mentioned in other sections (knowledge of the book was needed, not the concepts). Positive note: the course taught how to actually profile java (using netbeans).
+The course after 1180. I did not learn much. Some of the content was still overlap from AP CS (Recursion) and other content (understanding how linked and array lists work, using queues and stacks) I had already studied myself. I'm not sure if inheritance was first introduced here or before.
 
-New things this course made me do: Draw out node chains.
+The textbook had an array class were indexes started at 1. Had a few projects with constraints encouraging bad programming practices. That was a shame. 
+
+Positive note: the course taught how to actually profile java (using netbeans). New things this course made me do: Draw out node chains.
 
 ### MTH 2570 Discrete Math
 Basic predicate logic/boolean algebra. Basic graph theory and combinatorics. Proof by induction. 
@@ -81,7 +83,7 @@ Datalog, propositional logic, ....
 ### CS 3250 Computational Data Analysis
 Intro data science with r. Data cleaning, graphs, visualization, regression, modeling, clustering, supervised vs unsupervised learning, ect. Learn something from your data.
 
-My final project https://github.com/joshuastevenson/cs3250-data-project/tree/gh-pages (with left overs from the dcjs demo website) where I analyzed data from speedrun.com.
+My final project https://github.com/joshuastevenson/cs3250-data-project/tree/gh-pages (with left overs from the dcjs demo website) where I analyzed data from speedrun.com. A lot more I could have done with the project. 
 
 ### CS 4290 (MTH [46]\d\d\d) Cryptography and Data Security
 Applied abstract algebra. Basic ciphers, fields and rings, rsa. Only programing was for extra credit. I fully expect to never use anything I learned from the class. I know not to roll my own crypto. 

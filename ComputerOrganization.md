@@ -3,6 +3,7 @@ title: My Computer's Organization
 lastEdited: 2017-04-25
 ---
 
+# My computer
 My computer is set up just the way I like it. (Actually I have complaints. Everything it terrible.) Obviously this way is superior and everyone should copy me. Then I could use any computer. (Wait, I don't want to deal with everyone's sticky keyboard. Yes my keyboard is sticky too, but its sticky just right.)
 
 See also Installed Programs. 

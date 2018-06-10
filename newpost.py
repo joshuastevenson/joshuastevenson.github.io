@@ -4,10 +4,10 @@ from os import path
 import datetime
 
 def help():
-    print 'useage: "filename" "title" '
+    print('useage: "filename" "title" ')
 
 def main():
-    print "hello"
+    print("hello")
 
     argc = len(argv)
 
@@ -19,7 +19,7 @@ def main():
     title = argv[2]
 
     if path.isfile(filename):
-        print filename + "already exists"
+        print(filename + " already exists")
         exit()
     
 
@@ -46,6 +46,7 @@ def main():
             "\n---\n\n# ", title])
         
         post.write(data)
+    print("Made " + filename + ".md and added it to toc.")
 
 
 if __name__ == "__main__":

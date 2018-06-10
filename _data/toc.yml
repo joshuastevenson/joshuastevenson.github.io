@@ -1,6 +1,6 @@
 {pages: [{title: home, url: index}, {title: My Computer's Organization, url: ComputerOrganization},
-    {title: My Installed Programs, url: InstalledPrograms}, {title: What Makes a CS
-        Degree, url: WhatMakesACSDegree}, {title: Web Apps Are No Fun, url: WebAppsAreNoFun},
-    {title: Software Complaints, url: SoftwareComplaints}, {title: Miscellaneous Things,
-      url: misc}, {url: licenses, title: Licenses}, {url: languages, title: Languages},
-    {url: resume, title: Resume}, {url: codingStyle, title: Coding Style}]}
+ {title: My Installed Programs, url: InstalledPrograms}, {title: What Makes a CS Degree,
+url: WhatMakesACSDegree}, {title: Web Apps Are No Fun, url: WebAppsAreNoFun}, {title: Software
+Complaints, url: SoftwareComplaints}, {title: Miscellaneous Things, url: misc}, {
+url: licenses, title: Licenses}, {url: languages, title: Languages}, {url: resume,
+title: Resume}, {url: codingStyle, title: Coding Style}, {title: I hate Matlab, url: Matlab}]}
