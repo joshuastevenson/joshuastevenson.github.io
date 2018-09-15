@@ -3,4 +3,5 @@
 url: WhatMakesACSDegree}, {title: Web Apps Are No Fun, url: WebAppsAreNoFun}, {title: Software
 Complaints, url: SoftwareComplaints}, {title: Miscellaneous Things, url: misc}, {
 url: licenses, title: Licenses}, {url: languages, title: Languages}, {url: resume,
-title: Resume}, {url: codingStyle, title: Coding Style}, {title: I hate Matlab, url: Matlab}]}
+title: Resume}, {url: codingStyle, title: Coding Style}, {title: I hate Matlab, url: Matlab},
+ {title: My C, url: c}]}
